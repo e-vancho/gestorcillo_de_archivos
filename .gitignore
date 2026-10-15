@@ -1,0 +1,7 @@
+/config.php
+/var/
+/work/
+*.zip
+
+/setup-key.php
+/output/
